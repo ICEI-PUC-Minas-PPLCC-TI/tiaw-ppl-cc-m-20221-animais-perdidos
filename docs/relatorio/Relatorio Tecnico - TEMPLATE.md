@@ -1,21 +1,15 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`Animais Perdidos`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-`CURSO` 
-
-......  COLOQUE AQUI O SEU TEXTO ......
+`Trabalho Interdisciplinar de Aplicações Web`
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+* Amanda Mourthe Marques Villaça Veiga
+* Hugo Santiago Xavier
+* João Vitor Gonçalves Del Cantoni Baldo
+* Maria Cândida Torres Ferreira Costa Guerra
+* Roberto Rassendil Carvalho da Cunha Peixotoe
 
 # Estrutura do Documento
 
