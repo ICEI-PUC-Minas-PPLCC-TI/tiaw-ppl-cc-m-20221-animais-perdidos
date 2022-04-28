@@ -117,15 +117,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o programa acesse a localização do usuário | ALTA | 
-|RF-002| Mostrar animais perdidos na localidade    | MÉDIA |
-|RF-003| Permitir que o usuário publique no programa | ALTA | 
-|RF-004| Mostrar para todos os usuários próximos as publicações do usuário   | ALTA |
-|RF-005| Permitir que um usuário entre em contato com o outro | ALTA | 
-|RF-006| Permitir novos cadastros de usuário   | MÉDIA |
-|RF-007| Permitir que os usuários cadastrem novos animais | ALTA | 
-|RF-008| Permitir que o usuário coloque fotos dos animais | MÉDIA |
-|RF-009| Poder acessar com a internet | ALTA | 
+|RN-01| Permitir que o programa acesse a localização do usuário | ALTA | 
+|RN-02| Mostrar animais perdidos na localidade    | MÉDIA |
+|RN-03| Permitir que o usuário publique no programa | ALTA | 
+|RN-04| Mostrar para todos os usuários próximos as publicações do usuário   | ALTA |
+|RN-05| Permitir que um usuário entre em contato com o outro | ALTA | 
+|RN-06| Permitir novos cadastros de usuário   | MÉDIA |
+|RN-07| Permitir que os usuários cadastrem novos animais | ALTA | 
+|RN-08| Permitir que o usuário coloque fotos dos animais | MÉDIA |
+|RN-09| Poder acessar com a internet | ALTA | 
 
 
 
@@ -133,10 +133,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Poder compartilhar as publicações em outras redes sociais | BAIXA| 
-|RNF-002| Rodar em celulares com android com a versão superior 6.0 |  BAIXA | 
-|RNF-003| O programa deverá funcionar em todos os sistemas | ALTA | 
-|RNF-004| Notificar quando algum usuário publicar um animal perdido próximo |  MÉDIA |
+|RNF-01| Poder compartilhar as publicações em outras redes sociais | BAIXA| 
+|RNF-02| Rodar em celulares com android com a versão superior 6.0 |  BAIXA | 
+|RNF-03| O programa deverá funcionar em todos os sistemas | ALTA | 
+|RNF-04| Notificar quando algum usuário publicar um animal perdido próximo |  MÉDIA |
 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
