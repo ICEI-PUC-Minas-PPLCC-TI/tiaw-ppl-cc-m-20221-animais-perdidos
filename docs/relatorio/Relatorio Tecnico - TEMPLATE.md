@@ -1,5 +1,5 @@
 # Informações do Projeto
-`Animais Perdidos`  
+`HelPet`  
 
 `Trabalho Interdisciplinar de Aplicações Web`
 
@@ -50,91 +50,28 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 No mundo de hoje, muitas pessoas possuem algum tipo de animal doméstico no qual possuem muito amor e afeto, e perde-lo não é algo fácil. Para auxiliar nesse problema, tivemos a idéia de criar um software que ajude esse reencontro a ser mais rapido, já que os métodos utilizados nessa busca são ultrapassados e não completamente eficazes.
-
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo do nosso projeto é criar um software que auxilie pessoas que perderam seus animais a encontra-los sem depender de pregar cartazes em postes pela rua ou divulgar em redes sociais, o que não é exatamente preciso.
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Visando auxiliar os donos de animais e os próprios animais a encontrarem seus donos, esse projeto tem sua importância na parte de divulgar casos de animais perdidos, tendo em vista que os métodos utilizados atualmente não são completamente precisos.
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O público alvo do projeto são pessoas donas de animais (de qualquer tipo), qualquer pessoa que queira ajudar, ONGs, Lojas especializadas em animais (Pet-Shops e afins).
+Onde eles possuem um conhecimento básico sobre a tecnologia e como acessar um site ou baixar um aplicativo para celular.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
 # Especificações do Projeto
 
-HISTÓRIAS DE USUÁRIOS E REQUISITOS
+......  COLOQUE AQUI O SEU TEXTO ......
 
-Histórias de usuários:
-
-- Ricardo -> Trabalha com automação mecânica, tem medo de perder seus pets e deseja ajudar outros donos a reencontrarem seus animais. Busca nosso serviço por ser uma das formas mais eficazes para reunião de informações e por ser uma forma mais prática de busca.
-
-- PetShop Risos e Latidos (Atendente) -> Trabalha como atendente de PetShop, sente uma necessidade de ajudar as pessoas a encontrar seus pets, e precisa do nosso serviço para ajudar clientes a encontrarem seus animais.
-
-- Fernanda -> Trabalha como cerimonialista, acredita que as pessoas não ligam para animais em situação de rua, e precisa do nosso serviço para ajudar outras pessoas a encontrarem seus pets.
-
-
-Requisitos funcionais:
-
-- Permitir que o programa acesse a localização do usuário.
-- Mostrar animais perdidos na localidade.
-- Permitir que o usuário publique no programa.
-- Permitir que um usuário entre em contato com o outro.
-- Permitir novos cadastros de usuário.
-
-Requisitos não funcionais:
-
-- Poder acessar com a internet.
-- Rodar em celulares com android com a versão superior 6.0.1
-
-
+> Apresente uma visão geral do que será abordado nesta parte do
+> documento, enumerando as técnicas e/ou ferramentas utilizadas para
+> realizar a especificações do projeto
 
 ## Personas e Mapas de Empatia
 
