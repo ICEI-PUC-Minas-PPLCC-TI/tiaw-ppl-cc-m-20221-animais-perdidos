@@ -226,8 +226,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-O modo como o projeto está sendo feito é o de cada integrante possui uma função pré-definida, porém conta com a ajuda dos demais caso necessite e com o scrum master
-realizando a função determinada e auxiliando as demais.
+O projeto está sendo feito com cada integrante possuindo uma determinada função, e contando com a ajuda dos demais caso necessite e o scrum master
+realizando a própria função e auxiliando os demais.
 
 As ferramentas que estão sendo utilizadas no momento são [Miro](https://miro.com/), para definir as ideias, [MarvelApp](https://marvelapp.com/), para construir o wireframe do site, [Github](https://github.com/), para controlar o versionamento do codigo, [Trello](https://trello.com/en), para organizar as tarefas e [Discord](https://discord.com/), onde são feitas as reuniões. 
 
@@ -239,7 +239,7 @@ As ferramentas que estão sendo utilizadas no momento são [Miro](https://miro.c
 | Maria        | Redação  |
 | Roberto  | Design  |
 | Amanda        | Design  |
-| João        | ???  |
+| João        | Redação  |
 
 
 ## Ferramentas
@@ -253,7 +253,7 @@ As ferramentas que estão sendo utilizadas no momento são [Miro](https://miro.c
 |Protótipo Interativo | MavelApp | https://marvelapp.com/prototype/177gd1ae | 
 
 
-As ferramentas utilizadas no projeto são:
+Outras ferramentas utilizadas no projeto:
 
 **Editor de código**
 - Visual Studio Code
