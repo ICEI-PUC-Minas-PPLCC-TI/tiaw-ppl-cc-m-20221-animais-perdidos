@@ -110,11 +110,31 @@ No mundo de hoje, muitas pessoas possuem algum tipo de animal doméstico no qual
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+HISTÓRIAS DE USUÁRIOS E REQUISITOS
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Histórias de usuários:
+
+- Ricardo -> Trabalha com automação mecânica, tem medo de perder seus pets e deseja ajudar outros donos a reencontrarem seus animais. Busca nosso serviço por ser uma das formas mais eficazes para reunião de informações e por ser uma forma mais prática de busca.
+
+- PetShop Risos e Latidos (Atendente) -> Trabalha como atendente de PetShop, sente uma necessidade de ajudar as pessoas a encontrar seus pets, e precisa do nosso serviço para ajudar clientes a encontrarem seus animais.
+
+- Fernanda -> Trabalha como cerimonialista, acredita que as pessoas não ligam para animais em situação de rua, e precisa do nosso serviço para ajudar outras pessoas a encontrarem seus pets.
+
+
+Requisitos funcionais:
+
+- Permitir que o programa acesse a localização do usuário.
+- Mostrar animais perdidos na localidade.
+- Permitir que o usuário publique no programa.
+- Permitir que um usuário entre em contato com o outro.
+- Permitir novos cadastros de usuário.
+
+Requisitos não funcionais:
+
+- Poder acessar com a internet.
+- Rodar em celulares com android com a versão superior 6.0.1
+
+
 
 ## Personas e Mapas de Empatia
 
