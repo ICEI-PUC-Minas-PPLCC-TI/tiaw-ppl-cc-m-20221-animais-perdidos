@@ -106,7 +106,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |Eu como Ricardo,dono de pets|quero ajudar no resgate de animais perdidos|Para trazer felicidade aos seus donos.|
 |--------------------|------------------------------------|----------------------------------------|
-|Eu como Fernanda,|Quero acolher e cuidar de animais perdidos| Para que isso me ajude no meu trabalho dos sonhos|
+|Eu como Fernanda, adoradora de pets|Quero acolher e cuidar de animais perdidos| Para que isso me ajude no meu trabalho dos sonhos|
 |Eu como atendente de Pet Shop| Quero fazer resgates a animais| Para que eu me sinta bem comigo mesma  |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
