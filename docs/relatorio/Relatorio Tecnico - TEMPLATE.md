@@ -104,7 +104,7 @@ Onde eles possuem um conhecimento básico sobre a tecnologia e como acessar um s
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|Eu como Ricardo|quero resgatar animais perdidos|PARA trazer felicidade aos seus donos.|
+|Eu como Ricardo|quero resgatar animais perdidos|Para trazer felicidade aos seus donos.|
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
