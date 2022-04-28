@@ -75,30 +75,29 @@ Onde eles possuem um conhecimento básico sobre a tecnologia e como acessar um s
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> **Persona - Fernanda**
+> 
+> ![Fernanda](images/PersonaFernanda.png)
 
+> **Mapa de empatia - Fernanda**
+> 
+> ![Fernanda](images/MapaFernanda.png)
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
+> **Persona - PetShop**
 > 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
+> ![Fernanda](images/PersonaPet.png)
+
+> **Mapa de empatia - PetShop**
 > 
+> ![Fernanda](images/MapaPet.png)
+
+> **Persona - Ricardo**
 > 
-> **Exemplo de Persona**
+> ![Fernanda](images/PersonaRicardo.png)
+
+> **Mapa de empatia - Ricardo**
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+> ![Fernanda](images/MapaRicardo.png)
 
 
 ## Histórias de Usuários
@@ -227,38 +226,24 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O modo como o projeto está sendo feito é o de cada integrante possui uma função pré-definida, porém conta com a ajuda dos demais caso necessite e com o scrum master
+realizando a função determinada e auxiliando as demais.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+As ferramentas que estão sendo utilizadas no momento são [Miro](https://miro.com/), para definir as ideias, [MarvelApp](https://marvelapp.com/), para construir o wireframe do site, [Github](https://github.com/), para controlar o versionamento do codigo, [Trello](https://trello.com/en), para organizar as tarefas e [Discord](https://discord.com/), onde são feitas as reuniões. 
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+| Integrante    | Função        |
+| ------------- | ------------- |
+| Hugo        | Design, redação e Scrum Master  |
+| Maria        | Redação  |
+| Roberto  | Design  |
+| Amanda        | Design  |
+| João        | ???  |
 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
@@ -267,28 +252,26 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp | https://marvelapp.com/prototype/177gd1ae | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+
+As ferramentas utilizadas no projeto são:
+
+**Editor de código**
+- Visual Studio Code
+> IDE onde é possível aumentar a produtividade com a utilização de extensões
+
+**Comunicação**
+- [Discord](https://discord.com/)
+- Podendo migrar para o [Slack](https://slack.com/)
+> Aplicativos voltados a comunicação, sendo o Slack mais próprio para trabalhos
+
+
+**Diagramação**
+- [Figma](https://www.figma.com/)
+> Plataforma onde foi feita a diagramação do fluxo de usuários, foi escolhida por ser bem simples e prática
+
+**Hospedagem**
+>Será atualizada quando o site começar a ser desenvolvido, porém já temos alguns em mente, como exemplo o [netlify](https://www.netlify.com/) 
+
 
 ## Controle de Versão
 
