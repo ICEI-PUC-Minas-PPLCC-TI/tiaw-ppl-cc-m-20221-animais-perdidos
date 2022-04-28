@@ -203,8 +203,27 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 > **Login**:
 > 
-> ![](images/WireframeLogin.jpeg)
+> ![](images/Wireframe_LOGIN.jpeg)
 
+> **Cadastro do usuário**:
+> 
+> ![](images/Wireframe_REGISTRO.jpeg)
+
+> **Perfil**:
+> 
+> ![](images/Wireframe_PERFIL.jpeg)
+
+> **Home**:
+> 
+> ![](images/Wireframe_HOME.jpeg)
+
+> **Animais perdidos**:
+> 
+> ![](images/Wireframe_PERDIDOS.jpeg)
+
+> **Mais informações sobre o animal**:
+> 
+> ![](images/Wireframe_INFOP.jpeg)
 
 # Metodologia
 
