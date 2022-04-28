@@ -248,7 +248,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 > **Exemplo**:
 > 
-> ![Exemplo de UserFlow](images/flow.jpg)
+> ![Exemplo de UserFlow](images/UserFlow.pdf)
 
 
 ## Wireframes
