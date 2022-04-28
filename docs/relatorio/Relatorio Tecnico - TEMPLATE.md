@@ -67,11 +67,7 @@ Onde eles possuem um conhecimento básico sobre a tecnologia e como acessar um s
 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Nessa parte do documento será aboradada as partes das personas junto aos mapas de empatia, que foram feitos utilizando a plataforma do [Miro](https://miro.com) e sendo baseado nas técnicas do design thinking para o desenvolvimento.
 
 ## Personas e Mapas de Empatia
 
@@ -137,29 +133,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-02| Rodar em celulares com android com a versão superior 6.0 |  BAIXA | 
 |RNF-03| O programa deverá funcionar em todos os sistemas | ALTA | 
 |RNF-04| Notificar quando algum usuário publicar um animal perdido próximo |  MÉDIA |
-
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 ## Restrições
 
@@ -247,7 +220,7 @@ As ferramentas que estão sendo utilizadas no momento são [Miro](https://miro.c
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVOBuEnd0=/ | 
+|Processo de Design Thinking  | Miro | https://miro.com/app/board/uXjVOBuEnd0=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-animais-perdidos | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp | https://marvelapp.com/prototype/177gd1ae | 
