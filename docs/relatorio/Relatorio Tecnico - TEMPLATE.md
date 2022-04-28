@@ -104,10 +104,10 @@ Onde eles possuem um conhecimento básico sobre a tecnologia e como acessar um s
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|Eu como Ricardo|quero resgatar animais perdidos|Para trazer felicidade aos seus donos.|
+|Eu como Ricardo,dono de pets|quero ajudar no resgate de animais perdidos|Para trazer felicidade aos seus donos.|
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Eu como Fernanda,|Quero acolher e cuidar de animais perdidos| Para que isso me ajude no meu trabalho dos sonhos|
+|Eu como atendente de Pet Shop| Quero fazer resgates a animais| Para que eu me sinta bem comigo mesma  |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
