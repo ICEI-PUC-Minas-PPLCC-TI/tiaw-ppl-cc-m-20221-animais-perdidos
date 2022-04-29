@@ -154,7 +154,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-udadhjaudhaudhaudhudhadhauda
+As interfaces de solução foram feitas usando dois softwares: MarvelApp e FIGMA.
+O fluxo do usuário foi feito para que seja definido a melhor e mais facil rota para a utilização do site, mostrando o que acontece dependendo da decisão feita 
+pelo usuário.
+O Wireframe das telas foi feito para que atenda os requisitos pedidos pelos usuarios, os entregando um site auto-intuitivo, fácil e prático. O wireframe possui 6 telas
+que são o necessário para que o objetivo final do usuário seja alcançado. Todas as 6 telas sao interligadas agilizando a forma de uso do site e mostrando as 
+ferramentas pedidas como: mapa, criação de perfis, comunicação entre usuários, publicações feitas pelos usuários, uso de fotos, etc.
+Todo esse conjunto resolve o objetivo coletivo que é a busca pelo seu animal de estimação desaparecido
+
+
+
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
