@@ -140,18 +140,28 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá estar pronto até a data limite no final do semestre |
-|02| Deverá ter somente a parte do front-end |
+|01| O projeto deverá ser entregue até o final do semestre |
+|02| Não pode ser desenvolvido um módulo de backend        |
+
+
+> Enumere as restrições à sua solução. Lembre-se de que as restrições
+> geralmente limitam a solução candidata.
+> 
+> **Links Úteis**:
+> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
+> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 
 # Projeto de Interface
 
+As interfaces de solução foram feitas usando dois softwares: MarvelApp e FIGMA.
+O fluxo do usuário foi feito para que seja definido a melhor e mais facil rota para a utilização do site, mostrando o que acontece dependendo da decisão feita 
+pelo usuário.
+O Wireframe das telas foi feito para que atenda os requisitos pedidos pelos usuarios, os entregando um site auto-intuitivo, fácil e prático. O wireframe possui 6 telas
+que são o necessário para que o objetivo final do usuário seja alcançado. Todas as 6 telas sao interligadas agilizando a forma de uso do site e mostrando as 
+ferramentas pedidas como: mapa, criação de perfis, comunicação entre usuários, publicações feitas pelos usuários, uso de fotos, etc.
+Todo esse conjunto resolve o objetivo coletivo que é a busca pelo seu animal de estimação desaparecido.
 
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
