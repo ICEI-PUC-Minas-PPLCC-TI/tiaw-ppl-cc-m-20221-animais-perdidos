@@ -100,8 +100,9 @@ Nessa parte do documento será aboradada as partes das personas junto aos mapas 
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|Eu como Ricardo,dono de pets|quero ajudar no resgate de animais perdidos|Para trazer felicidade aos seus donos.|
+
 |--------------------|------------------------------------|----------------------------------------|
+|Eu como Ricardo,dono de pets|quero ajudar no resgate de animais perdidos|Para trazer felicidade aos seus donos.|
 |Eu como Fernanda, adoradora de pets|Quero acolher e cuidar de animais perdidos| Para que isso me ajude no meu trabalho dos sonhos|
 |Eu como atendente de Pet Shop| Quero fazer resgates a animais| Para que eu me sinta bem comigo mesma  |
 
