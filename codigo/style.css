@@ -1,0 +1,34 @@
+input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+  
+        input[type=number] {
+            -moz-appearance: textfield;
+        }
+#txt_senha{
+    border-radius: 12px;
+    outline: none;
+}
+#txt_telefone{
+    border-radius: 12px;
+
+
+}
+#txt_login{
+    border-radius: 12px;
+    outline: none;
+}
+#txt_nome{
+    border-radius: 12px;
+    outline: none;
+}
+#txt_email{
+    border-radius: 12px;
+    outline: none;
+}    
+#txt_senha2{
+    border-radius: 12px;
+    outline: none;
+}  
