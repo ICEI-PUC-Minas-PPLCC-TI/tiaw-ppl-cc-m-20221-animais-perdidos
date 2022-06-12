@@ -95,7 +95,6 @@ function loginUser(login, senha) {
   // Verifica todos os itens do banco de dados de usuarios
   // para localizar o usuário informado no formulario de login
   if (login == "" && senha == "") {
-    alert("Preencha os campos!");
   }
   for (var i = 0; i < db_usuarios.usuarios.length; i++) {
     var usuario = db_usuarios.usuarios[i];
@@ -148,8 +147,6 @@ function addUser(nome, login, senha, email, telefone) {
   // Salva o novo banco de dados com o novo usuário no localStorage
   localStorage.setItem("db_usuarios", JSON.stringify(db_usuarios));
 }
-
 function setUserPass() {}
-
 // Inicializa as estruturas utilizadas pelo LoginApp
 initLoginApp();

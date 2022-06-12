@@ -41,9 +41,10 @@
               <div class="form-group">
                 <h5 style="color: #fff" ;>Usuário</h5>
                 <input type="text" name="username" id="username" class="form-control" style="border-radius: 12PX;
-               " /><br />
+               " autocomplete="off" /><br />
               </div>
-              <div class="form-group">
+
+              <div class=" form-group">
                 <h5 style="color: #fff">Senha</h5>
                 <input type="password" name="password" id="password" class="form-control" style="border-radius: 12px" />
               </div>
@@ -140,7 +141,7 @@
         window.location.href = "index.html";
       } else {
         // Se login falhou, avisa ao usuário
-        alert("Usuário ou senha incorretos");
+        swal("Erro de login", "Usuário/Senha não encontrado", "error");
       }
     }
 
@@ -157,15 +158,19 @@
       let telefone = document.getElementById("txt_telefone").value;
       let senha2 = document.getElementById("txt_senha2").value;
       if (senha != senha2) {
-        alert("As senhas informadas não conferem.");
+        swal({ title: "As senhas informadas não se conferem!", icon: "warning" })
         return;
       }
       if (login == '' || nome == '' || email == '' || senha == '' || telefone == '') {
-        alert("Preencha os campos")
+        swal({
+          title: "Preencha todos os campos!",
+          icon: "warning",
+        })
+        return;
       } else {
         // Adiciona o usuário no banco de dados
         addUser(nome, login, senha, email, telefone);
-        alert("Usuário cadastrado com sucesso!");
+        swal({ title: "Usuário cadastrado com sucesso!", icon: "success" })
       }
 
       // Oculta a div modal do login
@@ -183,6 +188,7 @@
       .getElementById("btn_salvar")
       .addEventListener("click", salvaLogin);
   </script>
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
     integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
     crossorigin="anonymous"></script>
