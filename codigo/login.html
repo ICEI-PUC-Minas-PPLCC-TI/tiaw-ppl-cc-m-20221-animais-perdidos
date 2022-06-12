@@ -21,6 +21,7 @@
       <p style="color: #fff; margin-top: 100px">
         Bem vindo a HELPet! <img height="60px" src="https://cdn-icons-png.flaticon.com/512/194/194279.png" </p>
     </h3>
+
     <div class="container">
       <div id="login-row" class="row justify-content-center align-items-center">
         <div id="login-column" class="col-md-6">
@@ -28,6 +29,7 @@
               background-color: #99c4c8;
               padding: 20px;
               border-radius: 20px;" id="login-box" class="col-md-12">
+
             <form id="login-form" class="form" method="post" onsubmit="loginUser (this)">
               <h3 class="text-center text-info">
                 <p style="color: #fff">
@@ -52,6 +54,7 @@
                 </button>
               </div>
             </form>
+
           </div>
         </div>
       </div>
@@ -71,8 +74,9 @@
         </div>
         <div class="modal-body">
           <div id="login-box" class="col-md-12">
+
+            <h3 class="text-center text-dark">Cadastro</h3>
             <form id="login-form" class="form" method="post" onsubmit="loginUser (this)">
-              <h3 class="text-center text-dark">Cadastro</h3>
               <div class="form-group">
                 <label for="login" class="text-link">Usuário</label><br />
                 <input required type="text" name="txt_login" id="txt_login" class="form-control"
@@ -104,6 +108,7 @@
                 <input type="password" name="txt_senha2" id="txt_senha2" class="form-control" />
               </div>
             </form>
+
           </div>
         </div>
         <div class="modal-footer">
@@ -144,6 +149,7 @@
       event.preventDefault();
 
       // Obtem os dados do formulário
+
       let login = document.getElementById("txt_login").value;
       let nome = document.getElementById("txt_nome").value;
       let email = document.getElementById("txt_email").value;
@@ -154,10 +160,15 @@
         alert("As senhas informadas não conferem.");
         return;
       }
+      if (login == '' && nome == '') {
+        alert("Preencha os campos")
+      } else {
 
-      // Adiciona o usuário no banco de dados
-      addUser(nome, login, senha, email, telefone);
-      alert("Usuário cadastrado com sucesso!");
+
+        // Adiciona o usuário no banco de dados
+        addUser(nome, login, senha, email, telefone);
+        alert("Usuário cadastrado com sucesso!");
+      }
 
       // Oculta a div modal do login
       //document.getElementById ('loginModal').style.display = 'none';

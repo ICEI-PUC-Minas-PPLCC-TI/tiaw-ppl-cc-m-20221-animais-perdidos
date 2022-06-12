@@ -94,6 +94,9 @@ function initLoginApp() {
 function loginUser(login, senha) {
   // Verifica todos os itens do banco de dados de usuarios
   // para localizar o usuário informado no formulario de login
+  if (login == "" && senha == "") {
+    alert("Preencha os campos!");
+  }
   for (var i = 0; i < db_usuarios.usuarios.length; i++) {
     var usuario = db_usuarios.usuarios[i];
 
