@@ -160,11 +160,9 @@
         alert("As senhas informadas não conferem.");
         return;
       }
-      if (login == '' && nome == '') {
+      if (login == '' || nome == '' || email == '' || senha == '' || telefone == '') {
         alert("Preencha os campos")
       } else {
-
-
         // Adiciona o usuário no banco de dados
         addUser(nome, login, senha, email, telefone);
         alert("Usuário cadastrado com sucesso!");
