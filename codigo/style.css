@@ -7,28 +7,7 @@ input::-webkit-outer-spin-button,
         input[type=number] {
             -moz-appearance: textfield;
         }
-#txt_senha{
+#txt_senha, #txt_telefone,#txt_login,#txt_nome,#txt_email,#txt_senha2{
     border-radius: 12px;
     outline: none;
 }
-#txt_telefone{
-    border-radius: 12px;
-
-
-}
-#txt_login{
-    border-radius: 12px;
-    outline: none;
-}
-#txt_nome{
-    border-radius: 12px;
-    outline: none;
-}
-#txt_email{
-    border-radius: 12px;
-    outline: none;
-}    
-#txt_senha2{
-    border-radius: 12px;
-    outline: none;
-}  
