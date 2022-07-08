@@ -11,7 +11,7 @@ No mundo atual grande parte das pessoas possui um animal de estimação, sendo d
 - João Vitor Gonçalves Del Cantoni Baldo
 - Maria Cândida Torres Ferreira Costa Guerra
 - Roberto Rassendil Carvalho da Cunha Peixoto
-- Larissa Cássia
+- Larissa Cássia de Miranda
 
 ## Professores responsáveis
 
